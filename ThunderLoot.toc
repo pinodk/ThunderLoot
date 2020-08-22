@@ -1,0 +1,9 @@
+## Interface: 11304
+## Title: ThunderLoot
+## Notes: Addon designed for Seven Thunders guild on Hydraxian Waterlords EU.
+## Author: Pino
+## Version: 1.5
+## SavedVariables: ThunderLootDB
+
+embeds.xml
+ThunderLootMain.lua
